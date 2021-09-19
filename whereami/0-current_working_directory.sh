@@ -1,1 +1,3 @@
-echo "${pwd}"
+#!/bin/sh
+
+pwd
