@@ -1,1 +1,1 @@
-echo "the PWD is : ${pwd}"
+echo "${pwd}"
